@@ -1,2 +1,2 @@
-# branching-experiments
-A repository for practicing Git branching and Python debugging. It includes buggy Python scripts to improve error detection, code correction, and version control skills
+# git-learning-experiment
+"This repository is dedicated to practicing Git and Python debugging skills. It contains intentionally buggy Python scripts designed to help improve error detection and code correction techniques. Each exercise encourages the use of Git branching to isolate, fix, and merge code changes, providing hands-on experience in version control and collaborative development workflows
